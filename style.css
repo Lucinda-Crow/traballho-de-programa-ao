@@ -1,7 +1,9 @@
-.cabeçalho{ 
-    background-color:#3230a39c ;
-    color: rgb(255, 255, 255);
+.cabecalho{ 
+    background-color:#4442a89c ;
+    color: rgb(221, 10, 240);
+    display:flex ;
+    justify-content: space-around;
 }
-.cabeçalho-imagem{
+.cabecalho-imagem{
     width: 20%;
 }
